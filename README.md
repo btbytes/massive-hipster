@@ -2,7 +2,7 @@ massive-hipster^*^
 ==================
 
 
-A playground for the code I write in various langauges that i'd like learn.
+A playground for the code I plan to write in various programming langauges that I'd like learn.
 
   * F#
   * OCaml
